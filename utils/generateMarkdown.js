@@ -72,7 +72,7 @@ ${data.tests}
 
 If you have any questions, you can contact me at the following places:
 
-[Github Account](github.com/${data.username})
+[Github Account](https://github.com/${data.username})
 (${data.email})
 `;
 }

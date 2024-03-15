@@ -46,5 +46,5 @@ This project is easy to run and very straightforward. Run the project and anwser
 
 If you have any questions, you can contact me at the following places:
 
-[Github Account](github.com/Stephen-Bates)
+[Github Account](https://github.com/Stephen-Bates)
 (stephen.michael.bates@outlook.com)
