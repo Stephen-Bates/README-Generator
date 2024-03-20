@@ -30,7 +30,8 @@ Download the zip file of this project and extract it to the location you want it
 
 Open a command shell and navigate to the extracted folder. Make sure to run 'npm i' to ensure dependancies are installed properly, then run the script with 'node index.js'. You will be prompted to enter information about the project. After all questions have been anwsered, a .md file will be created in the output directory of the project.
 
-![video demo](https://drive.google.com/file/d/1Poe3rJKezYepzM8MqIuabSsaxrc_PVOo/view?usp=drive_link)
+[![demo](https://drive.google.com/thumbnail?authuser=0&sz=w1280&id=1Poe3rJKezYepzM8MqIuabSsaxrc_PVOo)](https://drive.google.com/file/d/1Poe3rJKezYepzM8MqIuabSsaxrc_PVOo/view?usp=drive_link "demo")
+
 ## License
 
 This project is licensed under the Mozilla Public License 2.0 - see the [License](http://choosealicense.com/licenses/mpl-2.0/) file for details.
